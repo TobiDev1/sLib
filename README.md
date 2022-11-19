@@ -1,5 +1,7 @@
 # ZeroLib
 
+ZeroLib is a little help for new developers who are starting!
+
         <dependency>
             <groupId>dev.soysix</groupId>
             <artifactId>zerolib</artifactId>
