@@ -1,4 +1,4 @@
-# sLib
+<p align="center">! SoySix#9440<br><img width="256px" height="256px" src="https://static.vecteezy.com/system/resources/previews/008/489/966/original/retro-red-rose-icon-png.png"><br><b>sLib </b><sup>v1.0-SNAPSHOT</sup></p>
 
         <dependency>
             <groupId>dev.soysix</groupId>
